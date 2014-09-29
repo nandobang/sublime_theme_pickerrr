@@ -1,0 +1,12 @@
+[
+  {
+    "caption": "Theme Pickerrr",
+    "id": "theme_pickerrr",
+    "children": [
+      {
+        "caption": "Pick a theme...",
+        "command": "theme_pickerrr"
+      }
+    ]
+  }
+]
